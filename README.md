@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabinMhzn&label=Profile%20views&color=0e75b6&style=flat" alt="PrabinMhzn" /> </p>
 
 - 🔭 I’m currently working on
-- <!-- (My YouTube Channel) and <a href="https://devdreaming.com" target="blank">DevDreaming</a> (A website where I can share more then videos). -->  
 
 - 💬 Ask me about **React, NextJs**
 
