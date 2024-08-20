@@ -1,12 +1,12 @@
 <h1 align="center">Hello👋,My name is Prabin</h1>
-<h3 align="center">Passionate Web developer. Keen on learning about the new technology 
+<h3 align="center">Passionate Web developer. Keen on learning Everyday
 </h3>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabinMhzn&label=Profile%20views&color=0e75b6&style=flat" alt="PrabinMhzn" /> </p>
 
-- 🔭 I’m currently working on ** Portfolio Project**
+- 🔭 I’m currently working on ** Portfolio Projects** 
 
-- 💬 Currently Learning **React, NextJs**
+- 💬 Currently Learning **NextJs, Typescript**
 
 - 📫 How to reach me **satyrikonme@gmail.com**
 
