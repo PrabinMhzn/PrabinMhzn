@@ -13,7 +13,7 @@
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
  
-<a href="https://www.linkedin.com/in/prabin-maharjan93/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabin-maharjan93/" target="_blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="Prabin" height="30" width="40" /></a>
   <a href="https://www.instagram.com/prabi.nm/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
 </p>
 </br>
